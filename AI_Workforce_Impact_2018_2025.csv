@@ -1,0 +1,31 @@
+Setor,Empresa,Ano,TipoImpacto,EstimativaEmpregos
+Information,Microsoft,2019,Contratações IA,+1000
+Information,Microsoft,2023,Demissões,-10000
+Information,Microsoft,2024,Demissões,-6000
+Information,Microsoft,2025,Demissões,-9000
+Information,Google (Alphabet),2018,Contratações,+15000
+Information,Google (Alphabet),2023,Demissões,-12000
+Information,Google (Alphabet),2025,Demissões,-2000
+Information,Meta Platforms,2023,Demissões,-11000
+Information,Meta Platforms,2025,Demissões,-600
+Retail,Amazon,2018,Contratações IA,+10000
+Retail,Amazon,2023,Demissões,-27000
+Retail,Amazon,2025,Demissões,-8000
+Retail,Walmart,2019,Contratações,+5000
+Retail,Walmart,2025,Requalificação,0
+Retail,Ocado,2025,Demissões,-500
+Manufacturing,Siemens,2019,Contratações IA,+3000
+Manufacturing,Siemens,2023,Demissões,-2500
+Manufacturing,Siemens,2025,Demissões,-5600
+Manufacturing,General Motors,2023,Demissões,-5000
+Manufacturing,General Motors,2025,Requalificação,0
+Manufacturing,Toyota,2018,Contratações IA,+2000
+Manufacturing,Toyota,2025,Requalificação,0
+Prof/Bus Services,IBM,2019,Requalificação,0
+Prof/Bus Services,IBM,2023,Contratações,+3000
+Prof/Bus Services,IBM,2025,Substituição,-7800
+Prof/Bus Services,Accenture,2020,Demissões,-900
+Prof/Bus Services,Accenture,2023,Demissões,-19000
+Prof/Bus Services,Accenture,2025,Demissões,-11000
+Prof/Bus Services,Salesforce,2023,Demissões,-8000
+Prof/Bus Services,Salesforce,2025,Demissões,-4000
